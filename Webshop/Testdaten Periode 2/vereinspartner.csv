@@ -1,6 +1,8 @@
-CustomerID,ExternalID,CustomerStatus,CustomerDiscount,ValidFrom
-Ruhrmorig,146,Gold,2.0,15.01.2025
-VolleRose,218,Bronze,0.0,15.01.2025
-Blaetterglueck,84,Gold,2.0,15.01.2025
-GlückAuf,5,Silber,1.0,15.01.2025
-WochenendGLück,99,Silber,1.0,15.01.2025
+﻿VereinsPartnerID ;KundeIDVerein ;Rabatt1 ;Rabatt2 ;Rabatt3 
+GlückAuf;5;2;4;8
+Ruhrmorig;146;3;6;12
+VolleRose;218;1;2;4
+WochenendGLück;99;5;10;18
+Druff1848;42;3;6;12
+Blaetterglueck;84;4;8;16
+Abendröte;300;2;3;6
