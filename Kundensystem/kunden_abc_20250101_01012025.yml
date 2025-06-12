@@ -1,0 +1,11 @@
+version: 2
+
+seeds:
+  - name: kunden_abc_20250101_01012025
+    config:
+      column_types:
+        CustomerID: varchar(2000000)
+        ExternalID: varchar(2000000)
+        CustomerStatus: varchar(2000000)
+        CustomerDiscount: decimal(18,2)
+        ValidFrom: varchar(2000000)
