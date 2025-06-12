@@ -1,0 +1,6 @@
+INSERT INTO [Produktkategorie] ([KatID], [Rabatt], [Von], [Bis], [Festlegung], [Stand]) VALUES ('GMiFENCHEL', '6.0', '15.01.2025', '01.03.2025', '01.02.2025', '01.02.2025')
+INSERT INTO [Produktkategorie] ([KatID], [Rabatt], [Von], [Bis], [Festlegung], [Stand]) VALUES ('GMiPAPRIKA', '10.00', '01.03.2025', '', '20.02.2025', '01.02.2025')
+INSERT INTO [Produktkategorie] ([KatID], [Rabatt], [Von], [Bis], [Festlegung], [Stand]) VALUES ('GMiRETTICH', '0.0', '31.01.2025', '', '01.02.2025', '01.02.2025')
+INSERT INTO [Produktkategorie] ([KatID], [Rabatt], [Von], [Bis], [Festlegung], [Stand]) VALUES ('GStBLUMENKOHL', '0.0', '08.01.2025', '', '01.02.2025', '01.02.2025')
+INSERT INTO [Produktkategorie] ([KatID], [Rabatt], [Von], [Bis], [Festlegung], [Stand]) VALUES ('GStSELLERIE', '4.0', '01.01.2025', '', '01.02.2025', '01.02.2025')
+INSERT INTO [Produktkategorie] ([KatID], [Rabatt], [Von], [Bis], [Festlegung], [Stand]) VALUES ('KScBASILIKUM', '2.0', '01.01.2025', '', '01.03.2025', '01.02.2025')
