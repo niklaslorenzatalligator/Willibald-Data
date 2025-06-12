@@ -1,7 +1,5 @@
-INSERT INTO [VereinsPartner] ([VereinsPartnerID ], [KundeIDVerein ], [Rabatt1 ], [Rabatt2 ], [Rabatt3 ]) VALUES	 ('GlückAuf', '5', '2', '4', '8');
-INSERT INTO [VereinsPartner] ([VereinsPartnerID ], [KundeIDVerein ], [Rabatt1 ], [Rabatt2 ], [Rabatt3 ]) VALUES	 ('Ruhrmorig', '146', '3', '6', '12');
-INSERT INTO [VereinsPartner] ([VereinsPartnerID ], [KundeIDVerein ], [Rabatt1 ], [Rabatt2 ], [Rabatt3 ]) VALUES	 ('VolleRose', '218', '1', '2', '4');
-INSERT INTO [VereinsPartner] ([VereinsPartnerID ], [KundeIDVerein ], [Rabatt1 ], [Rabatt2 ], [Rabatt3 ]) VALUES	 ('WochenendGLück', '99', '5', '10', '18');
-INSERT INTO [VereinsPartner] ([VereinsPartnerID ], [KundeIDVerein ], [Rabatt1 ], [Rabatt2 ], [Rabatt3 ]) VALUES	 ('Druff1848', '42', '3', '6', '12');
-INSERT INTO [VereinsPartner] ([VereinsPartnerID ], [KundeIDVerein ], [Rabatt1 ], [Rabatt2 ], [Rabatt3 ]) VALUES	 ('Blaetterglueck', '84', '4', '8', '16');
-INSERT INTO [VereinsPartner] ([VereinsPartnerID ], [KundeIDVerein ], [Rabatt1 ], [Rabatt2 ], [Rabatt3 ]) VALUES	 ('Abendröte', '300', '2', '3', '6');
+INSERT INTO [VereinsPartner] ([CustomerID], [ExternalID], [CustomerStatus], [CustomerDiscount], [ValidFrom]) VALUES ('Ruhrmorig', '146', 'Gold', '2.0', '15.01.2025')
+INSERT INTO [VereinsPartner] ([CustomerID], [ExternalID], [CustomerStatus], [CustomerDiscount], [ValidFrom]) VALUES ('VolleRose', '218', 'Bronze', '0.0', '15.01.2025')
+INSERT INTO [VereinsPartner] ([CustomerID], [ExternalID], [CustomerStatus], [CustomerDiscount], [ValidFrom]) VALUES ('Blaetterglueck', '84', 'Gold', '2.0', '15.01.2025')
+INSERT INTO [VereinsPartner] ([CustomerID], [ExternalID], [CustomerStatus], [CustomerDiscount], [ValidFrom]) VALUES ('GlückAuf', '5', 'Silber', '1.0', '15.01.2025')
+INSERT INTO [VereinsPartner] ([CustomerID], [ExternalID], [CustomerStatus], [CustomerDiscount], [ValidFrom]) VALUES ('WochenendGLück', '99', 'Silber', '1.0', '15.01.2025')
