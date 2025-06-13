@@ -1,6 +1,6 @@
-CustomerID,ExternalID,CustomerStatus,CustomerDiscount,ValidFrom
-Ruhrmorig,146,Gold,2.0,15.01.2025
-VolleRose,218,Bronze,0.0,15.01.2025
-Blaetterglueck,84,Gold,2.0,15.01.2025
-GlückAuf,5,Silber,1.0,15.01.2025
-WochenendGLück,99,Silber,1.0,15.01.2025
+CustomerID;ExternalID;CustomerStatus;CustomerDiscount;ValidFrom
+Ruhrmorig;146;Gold;2.0;15.01.2025
+VolleRose;218;Bronze;0.0;15.01.2025
+Blaetterglueck;84;Gold;2.0;15.01.2025
+GlückAuf;5;Silber;1.0;15.01.2025
+WochenendGLück;99;Silber;1.0;15.01.2025
